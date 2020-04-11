@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="512"
+   id="svg2348"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="Aiga_restaurant_.svg"
+   sodipodi:version="0.32"
+   width="512"
+   version="1.1">
+  <metadata
+     id="metadata6174">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title></dc:title>
+        <dc:description>EPS converted from  http://aiga.org</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>symbol</rdf:li>
+            <rdf:li>mapsym</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://www.openclipart.org/">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jean-Victor Balin</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Jean-Victor Balin</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date />
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     bordercolor="#666666"
+     borderopacity="1.0"
+     id="base"
+     inkscape:current-layer="svg2348"
+     inkscape:cx="-58.66298"
+     inkscape:cy="233.58491"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:window-height="808"
+     inkscape:window-width="1152"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:zoom="0.43415836"
+     pagecolor="#ffffff"
+     showgrid="false"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs2350">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 236.091 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="248.746 : 236.091 : 1"
+       inkscape:persp3d-origin="124.373 : 157.394 : 1"
+       id="perspective6185" />
+    <marker
+       id="ArrowEnd"
+       markerHeight="3"
+       markerUnits="strokeWidth"
+       markerWidth="4"
+       orient="auto"
+       refX="0"
+       refY="5"
+       viewBox="0 0 10 10">
+      <path
+         d="M 0,0 10,5 0,10 z"
+         id="path2353" />
+    </marker>
+    <marker
+       id="ArrowStart"
+       markerHeight="3"
+       markerUnits="strokeWidth"
+       markerWidth="4"
+       orient="auto"
+       refX="10"
+       refY="5"
+       viewBox="0 0 10 10">
+      <path
+         d="M 10,0 0,5 10,10 z"
+         id="path2356" />
+    </marker>
+  </defs>
+  <g
+     id="g2358"
+     transform="translate(131.627,19.908991)">
+    <path
+       d="m 115.158,154.044 c 0,15.334 -13.97,31.75 -32.084,31.75 l 0,258.833 c 0,36.74 -50.081,36.74 -50.081,0 l 0,-258.833 C 15.353,185.794 0,172.211 0,151.857 L 0,9.41901 c 0,-12.39899 17.92,-12.87799 17.92,0.479 l 0,105.29799 15,0 0,-106.256 c 0,-11.39599 17.25,-12.12799 17.25,0.47901 l 0,105.77699 15.5,0 0,-106.131 c 0,-11.89898 16.75,-12.37799 16.75,0.47901 l 0,105.65199 15.25,0 0,-106.131 c 0,-11.77398 17.497,-12.25299 17.497,0.47901 L 115.158,154.044 z"
+       id="path2360"
+       style="fill:#000000;stroke:none" />
+    <path
+       d="m 248.746,42.524 0,401.977 c 0,35.933 -50.177,35.401 -50.177,0 l 0,-159.495 -26.719,0 0,-242.482 c 0,-56.445 76.896,-56.445 76.896,0 z"
+       id="path2362"
+       style="fill:#000000;stroke:none" />
+  </g>
+</svg>

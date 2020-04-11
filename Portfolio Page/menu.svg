@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="146.84756"
+   height="146.57051"
+   id="svg1875"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   version="1.0"
+   sodipodi:docbase="C:\Dokumente und Einstellungen\Stefan Fussan\Eigene Dateien\Eigene Bilder\WikiTravel\Kartenentwürfe\eigene Symbole"
+   sodipodi:docname="SymbolRestaurant.svg">
+  <defs
+     id="defs1877" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="74.224284"
+     inkscape:cy="78.081968"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1094"
+     inkscape:window-height="806"
+     inkscape:window-x="44"
+     inkscape:window-y="72" />
+  <metadata
+     id="metadata1880">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Symbol Restaurant</dc:title>
+        <dc:date>01. Oct. 2006</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Stefan Fussan</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Map; Symbol; Wikivoyage; Restaurant</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>Symbol for Wikivoyage maps: Restaurant</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(836.2809,29.4945)">
+    <path
+       style="opacity:1;color:black;fill:#855217;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.52529125;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       d="M -833.50388,-26.994501 L -691.93336,-26.717457 L -691.93336,114.57601 L -833.78092,114.29897 L -833.50388,-26.994501 z "
+       id="path1900" />
+    <g
+       transform="translate(-819.6133,-20.00891)"
+       id="g731"
+       style="fill:white;fill-opacity:1">
+      <path
+         sodipodi:nodetypes="cscscssssss"
+         id="path703"
+         d="M 90.4193,10.0037 C 87.504,7.10415 72.0847,25.1285 65.5021,33.4116 C 63.1112,36.4612 61.8698,40.6596 68.0737,46.704 C 12.3575,102.081 2.83829,110.693 7.86228,115.544 C 13.2035,120.696 21.1744,108.698 72.1224,50.506 C 78.1492,56.3763 81.4849,55.3204 85.4748,51.8209 C 93.1001,44.2922 110.151,29.3212 106.65,25.5714 C 102.295,20.9354 86.852,45.8995 82.8656,42.8842 C 78.2427,39.3405 103.055,21.4754 99.0976,17.5617 C 94.5541,13.062 78.2027,39.0155 74.3738,34.8554 C 71.0954,31.3154 94.4069,13.9931 90.4193,10.0037 z "
+         style="font-size:12px;fill:white;fill-opacity:1;fill-rule:evenodd;stroke-width:1pt" />
+      <path
+         transform="matrix(0.394686,1.392874e-2,-1.641544e-2,0.400955,32.90093,-296.0175)"
+         sodipodi:nodetypes="ccccs"
+         id="path707"
+         d="M -18.6809,776.978 C 4.57125,754.403 91.4331,815.498 60.2081,848.018 C 177.004,963.775 228.536,1000.87 212.106,1015.72 C 196.21,1032.26 161.158,976.958 49.9996,857.93 C 16.5231,891.535 -41.3652,799.004 -18.6809,776.978 z "
+         style="font-size:12px;fill:white;fill-opacity:1;fill-rule:evenodd;stroke-width:1pt" />
+    </g>
+  </g>
+</svg>

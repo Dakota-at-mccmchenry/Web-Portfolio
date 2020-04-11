@@ -1,0 +1,298 @@
+/*Finish updating the page.  The base is finished, just focus on making it follow guidelines now.*/
+body {
+    background-image: url(basket.jpg)
+}
+*, *:before, *:after{
+    box-sizing: inherit
+}
+.content-wrap{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 50px;
+    overflow: hidden;
+}
+.intro{
+    min-height: 20%;
+}
+.title-font{
+    font-family: Lato, sans-serif;
+    src: url(GoogleFonts/Lato-Regular.ttf);
+    font-size: 2.2vw;
+    color: honeydew
+}
+.email-link{
+    background: white
+}
+.p-font{
+    font-family: Oswald, sans-serif;
+    src: url(GoogleFonts/Oswald-Regular.ttf);
+    font-size: 1.1vw
+}
+.float-right{
+    float: right
+}
+.title-background{
+    
+    font-family: Lato, sans-serif;
+    src: url(GoogleFonts/Lato-Regular.ttf);
+    font-size: 2.3vw;
+    background: firebrick;
+    color: yellow;
+    font-weight: bolder
+}
+h1{
+    font-size: 1vw;
+}
+nav{
+    background: tan;
+    padding: 0px;
+    position: fixed;
+    top: 0;
+}
+.nav-text{
+    font-size: 1.3vw;
+    font-weight: bolder
+}
+.navigator{
+    padding-left: 18%
+}
+/* This is used to control the overflow of the "Page Navigation" section. */
+header{
+    overflow: hidden;
+    display: inline-block;
+    padding: 8px;
+    margin-top: 5%;
+    text-align: center;
+    width: 100%;
+    left: 0;
+    right: 0;
+}
+.center-align{
+    text-align: center
+}
+.cheesebox{
+    background-color: #b99709;
+    margin: 1vw
+}
+.lettucebox{
+    background-color:  seagreen;
+    margin: 1vw
+}
+.tomatobox{
+    background-color: tomato;
+    margin: 1vw
+}
+.picklebox{
+    background-color: forestgreen;
+    margin: 1vw
+}
+.onionbox{
+    background-color: mediumpurple;
+    margin: 1vw
+}
+.burgerbox{
+    background-color: chocolate;
+    margin: 1vw
+}
+.burgertext{
+    color: cornsilk
+}
+.menu{
+    fill: silver;
+    color: silver
+}
+/* These are used to control the columns of the page*/
+.col-narrow{
+    width: 30%;
+    float: left;
+    min-height: 175px
+}
+.col-wide{
+    width: 65%;
+    float: left;
+    padding-left: 15px;
+    min-height: 175px
+}
+.top-lower{
+    margin-top: -5%
+}
+footer p:last-of-type{
+    font-size: 0.8em
+}
+.link{
+    color: rgb(0, 60, 255);
+    font-size: 1.3vw
+}
+.link:hover{
+    color: rgb(122, 0, 102);
+    font-size: 1.0em
+}
+footer{
+    background: tan;
+    width: 100%;
+    left: 0;
+    right: 0;
+    padding: 10px
+}
+img{
+    width: 100px;
+    padding: 1px auto;
+}
+
+.box {
+    text-align: center;
+    padding: 1em;
+    width: 100px;
+    height: 100px;
+    background: black;
+}
+
+.box-auto {
+    flex: auto;
+    text-align: center;
+    padding: 1em;
+    width: 100px;
+    height: 100px;
+    background: black;
+}
+
+.box-zero {
+    flex: 0;
+    text-align: center;
+    padding: 1em;
+    width: 100px;
+    height: 100px;
+    background: black;
+}
+
+#my-row {
+    display: flex;
+    max-width: 600px;
+    flex-flow: row wrap;
+    justify-content: flex-end;
+}
+.burger-image{
+    image-resolution: 4em
+}
+#my-column {
+    display: flex;
+    max-width: 600px;
+    height: auto;
+    flex-flow: column wrap;
+    align-items: stretch;
+    justify-content: space-around;
+}
+
+#my-row-reverse {
+    display: flex;
+    max-width: 500px;
+    height: auto;
+    flex-flow: row-reverse wrap;
+}
+
+#my-column-reverse {
+    display: flex;
+    max-height: 400px;
+    max-width: 800px;
+    flex-flow: column-reverse wrap;
+}
+
+.my-title {
+    max-width: 960px;
+    height: 25px;
+    text-align: center;
+}
+
+.row {
+    content: ""
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+}
+
+@media only screen {
+    /* For desktop: */
+    .col-1 {
+        width: 8.33%;
+    }
+    .col-2 {
+        width: 16.66%;
+    }
+    .col-3 {
+        width: 25%;
+    }
+    .col-4 {
+        width: 33.33%;
+    }
+    .col-5 {
+        width: 41.66%;
+    }
+    .col-6 {
+        width: 50%;
+    }
+    .col-7 {
+        width: 58.33%;
+    }
+    .col-8 {
+        width: 66.66%;
+    }
+    .col-9 {
+        width: 75%;
+    }
+    .col-10 {
+        width: 83.33%;
+    }
+    .col-11 {
+        width: 91.66%;
+    }
+    .col-12 {
+        width: 100%;
+    }
+    @media only screen{
+    /* For tablets: */
+    .col-m-1 {
+        width: 8.33%;
+    }
+    .col-m-2 {
+        width: 16.66%;
+    }
+    .col-m-3 {
+        width: 25%;
+    }
+    .col-m-4 {
+        width: 33.33%;
+    }
+    .col-m-5 {
+        width: 41.66%;
+    }
+    .col-m-6 {
+        width: 50%;
+    }
+    .col-m-7 {
+        width: 58.33%;
+    }
+    .col-m-8 {
+        width: 66.66%;
+    }
+    .col-m-9 {
+        width: 75%;
+    }
+    .col-m-10 {
+        width: 83.33%;
+    }
+    .col-m-11 {
+        width: 91.66%;
+    }
+    .col-m-12 {
+        width: 100%;
+    }
+}
+}
